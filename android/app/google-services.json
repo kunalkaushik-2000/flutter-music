@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "751474097958",
+    "firebase_url": "https://flutter-firebase-app-cb7e1.firebaseio.com",
+    "project_id": "flutter-firebase-app-cb7e1",
+    "storage_bucket": "flutter-firebase-app-cb7e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751474097958:android:e91515134be58d18594be7",
+        "android_client_info": {
+          "package_name": "com.kaushik.flutter_firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751474097958-3ipr8e9gll8u3uouvnk2cf36us73fcsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaushik.flutter_firebase_app",
+            "certificate_hash": "4760d69ee53f735a5075b473e0989cdb4e15e9bb"
+          }
+        },
+        {
+          "client_id": "751474097958-kisstc7mrd4247pk9m0h5ujfkc9mrbc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYUf_l3tyeIcBbg9lvRxYvwIlh908boZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751474097958-kisstc7mrd4247pk9m0h5ujfkc9mrbc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751474097958:android:094e0bbbee51c904594be7",
+        "android_client_info": {
+          "package_name": "com.kaushik.flutter_music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751474097958-kisstc7mrd4247pk9m0h5ujfkc9mrbc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYUf_l3tyeIcBbg9lvRxYvwIlh908boZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751474097958-kisstc7mrd4247pk9m0h5ujfkc9mrbc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751474097958:android:4dcfd9a5eed51c46594be7",
+        "android_client_info": {
+          "package_name": "com.kaushik.to_do_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751474097958-kisstc7mrd4247pk9m0h5ujfkc9mrbc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYUf_l3tyeIcBbg9lvRxYvwIlh908boZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751474097958-kisstc7mrd4247pk9m0h5ujfkc9mrbc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
